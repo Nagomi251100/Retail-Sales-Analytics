@@ -29,18 +29,18 @@ using the Global Superstore Dataset.
 - Category Analysis
 - Regional Analysis
 
-### Customer Dashboard
+### Customer Analysis
 - Top Customer by Sales
 - Top customer by Profit
 - Customer Segment Analysis
 
-### Product Dashboard
+### Product Analysis
 - Top Product by Sales
 - Top Product by Profit
 - Sales by Sub-Category
 - Profit vs Loss Orders
 
-### Regional Dashboard
+### Regional Analysis
   - Sales by Market
   - Profit by Market
   - Sales by Region
@@ -65,3 +65,21 @@ using the Global Superstore Dataset.
  
   ## Author
   Nagomi251100
+
+  ## Dashboard Screenshots
+
+  ### Executive Dashboard
+  ![Executive Dashboard](Executive_Analysis.png)
+
+  ### Customer Analysis
+  ![Customer Analysis](Customer_Analysis.png)
+
+  ### Product Analysis
+  ![Product Analysis](Product_Analysis.png)
+
+  ### Regional Analysis
+  ![Regional Analysis](Regional_Analysis.png)
+
+  ### Business Insights
+  ![Business Insights](Business_Insights.png)
+  
